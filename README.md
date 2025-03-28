@@ -34,13 +34,13 @@ The data originates from historical aviation accident records, compiled over sev
   
 Three primary visualizations support the findings, mirroring what was presented in the slides and accompanying notebook:  
 - **Accidents Over Time:** A time-series visualization showcasing the trend of aviation accidents across multiple decades.  
-![Visualization of Accidents Over Time](image/image1.png)
+![Visualization of Accidents Over Time](Image/image1.png)
 
 - **Fatal Injuries by Aircraft Make (Top 5):** A chart displaying the top 5 aircraft makes with the highest fatal injury counts.  
-![Visualization of Fatal Injuries by Aircraft Make (Top 5)](image/image2.png)
+![Visualization of Fatal Injuries by Aircraft Make (Top 5)](Image/image2.png)
 
 - **Flight Purpose Distribution (Top 5):** A visualization outlining the distribution of the top 5 flight purposes involved in accidents.  
-![Visualization of Flight Purpose Distribution (Top 5)](image/image3.png)
+![Visualization of Flight Purpose Distribution (Top 5)](Image/image3.png)
 
   
 These charts serve to visually represent the trends and key factors influencing aviation accident risk and contribute to a deeper understanding of the underlying data.  
